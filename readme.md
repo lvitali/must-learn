@@ -5,7 +5,6 @@
 - Haskell
 - Flux (Redux)
 - GraphQL
-- Go
 - Javascript
 - Jenkins
 - Python
