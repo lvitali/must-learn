@@ -2,7 +2,7 @@
 
 - Ansible
 - Docker
-- Haskell
+- R
 - Flux (Redux)
 - GraphQL
 - Javascript
