@@ -1,12 +1,12 @@
 # Stuff that I want/must learn
 
-- Ansible
-- Docker
+- ~~Ansible~~
+- ~~Docker~~
 - R
 - Flux (Redux)
 - GraphQL
 - Javascript
-- Jenkins
+- ~~Jenkins~~
 - Python
 - React
 - VueJS
